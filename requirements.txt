@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+torch==2.7.1+cu128
+graphviz
+torchviz
